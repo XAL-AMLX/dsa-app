@@ -1,0 +1,2871 @@
+[
+    {
+        "Topic": "",
+        "Problem: ": "Youtube Channel: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw ",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    
+    {
+        "Topic": "Array",
+        "Problem: ": "Reverse the array",
+        "id": "1.0",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Find the maximum and minimum element in an array",
+        "id": 2.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Find the \"Kth\" max and min element of an array ",
+        "id": 3.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+        "id": 4.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Move all the negative elements to one side of the array ",
+        "id": 5.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Find the Union and Intersection of the two sorted arrays.",
+        "id": 6.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Write a program to cyclically rotate an array by one.",
+        "id": 7.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "find Largest sum contiguous Subarray [V. IMP]",
+        "id": 8.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Minimise the maximum difference between heights [V.IMP]",
+        "id": 9.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Minimum no. of Jumps to reach end of an array",
+        "id": 10.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "find duplicate in an array of N+1 Integers",
+        "id": 11.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Merge 2 sorted arrays without using Extra space.",
+        "id": 12.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Kadane's Algo [V.V.V.V.V IMP]",
+        "id": 13.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Merge Intervals",
+        "id": 14.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Next Permutation",
+        "id": 15.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Count Inversion",
+        "id": 16.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Best time to buy and Sell stock",
+        "id": 17.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "find all pairs on integer array whose sum is equal to given number",
+        "id": 18.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "find common elements In 3 sorted arrays",
+        "id": 19.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Rearrange the array in alternating positive and negative items with O(1) extra space",
+        "id": 20.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Find if there is any subarray with sum equal to 0",
+        "id": 1.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Find factorial of a large number",
+        "id": 22.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "find maximum product subarray ",
+        "id": 23.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Find longest coinsecutive subsequence",
+        "id": 24.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Given an array of size n and a number k, fin all elements that appear more than \" n/k \" times.",
+        "id": 25.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Maximum profit by buying and selling a share atmost twice",
+        "id": 26.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Find whether an array is a subset of another array",
+        "id": 27.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Find the triplet that sum to a given value",
+        "id": 28.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Trapping Rain water problem",
+        "id": 29.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Chocolate Distribution problem",
+        "id": 30.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Smallest Subarray with sum greater than a given value",
+        "id": 31.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Three way partitioning of an array around a given value",
+        "id": 32.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Minimum swaps required bring elements less equal K together",
+        "id": 33.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Minimum no. of operations required to make an array palindrome",
+        "id": 34.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Median of 2 sorted arrays of equal size",
+        "id": 35.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Array",
+        "Problem: ": "Median of 2 sorted arrays of different size",
+        "id": 36.0,
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Matrix",
+        "Problem: ": "Spiral traversal on a Matrix",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Matrix",
+        "Problem: ": "Search an element in a matriix",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Matrix",
+        "Problem: ": "Find median in a row wise sorted matrix",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Matrix",
+        "Problem: ": "Find row with maximum no. of 1's",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Matrix",
+        "Problem: ": "Print elements in sorted order using row-column wise sorted matrix",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Matrix",
+        "Problem: ": "Maximum size rectangle",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Matrix",
+        "Problem: ": "Find a specific pair in matrix",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Matrix",
+        "Problem: ": "Rotate matrix by 90 degrees",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Matrix",
+        "Problem: ": "Kth smallest element in a row-cpumn wise sorted matrix",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Matrix",
+        "Problem: ": "Common elements in all rows of a given matrix",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Reverse a String",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Check whether a String is Palindrome or not",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Find Duplicate characters in a string",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Why strings are immutable in Java?",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Write a Code to check whether one string is a rotation of another",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Write a Program to check whether a string is a valid shuffle of two strings or not",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Count and Say problem",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Find Longest Recurring Subsequence in String",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Print all Subsequences of a string.",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Print all the permutations of the given string",
+        "id": "11",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Split the Binary string into two substring with equal 0\u2019s and 1\u2019s",
+        "id": "12",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Word Wrap Problem [VERY IMP].",
+        "id": "13",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "EDIT Distance [Very Imp]",
+        "id": "14",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Find next greater number with same set of digits. [Very Very IMP]",
+        "id": "15",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Balanced Parenthesis problem.[Imp]",
+        "id": "16",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Word break Problem[ Very Imp]",
+        "id": "17",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Rabin Karp Algo",
+        "id": "18",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "KMP Algo",
+        "id": "19",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+        "id": "20",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Minimum number of bracket reversals needed to make an expression balanced.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Count All Palindromic Subsequence in a given String.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Count of number of given string in 2D character array",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Search a Word in a 2D Grid of characters.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Boyer Moore Algorithm for Pattern Searching.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Converting Roman Numerals to Decimal",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Longest Common Prefix",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Number of flips to make binary string alternate",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Find the first repeated word in string.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Minimum number of swaps for bracket balancing.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Find the longest common subsequence between two strings.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Program to generate all possible valid IP addresses from given  string.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Write a program tofind the smallest window that contains all characters of string itself.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Rearrange characters in a string such that no two adjacent are same",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Minimum characters to be added at front to make string palindrome",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Given a sequence of words, print all anagrams together",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Find the smallest window in a string containing all characters of another string",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Recursively remove all adjacent duplicates",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "String matching where one string contains wildcard characters",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Function to find Number of customers who could not get a computer",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Transform One String to Another using Minimum Number of Given Operation",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Check if two given strings are isomorphic to each other",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "String",
+        "Problem: ": "Recursively print all sentences that can be formed from list of word lists",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Find first and last positions of an element in a sorted array",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Find a Fixed Point (Value equal to index) in a given array",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Search in a rotated sorted array",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "square root of an integer",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Maximum and minimum of an array using minimum number of comparisons",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Optimum location of point to minimize total distance",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Find the repeating and the missing",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "find majority element",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Searching in an array where adjacent differ by at most k",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "find a pair with a given difference",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "find four elements that sum to a given value",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "maximum sum such that no 2 elements are adjacent",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Count triplet with sum smaller than a given value",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "merge 2 sorted arrays",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "print all subarrays with 0 sum",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Product array Puzzle",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Sort array according to count of set bits",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "minimum no. of swaps required to sort the array",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Bishu and Soldiers",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Rasta and Kheshtak",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Kth smallest number again",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Find pivot element in a sorted array",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "K-th Element of Two Sorted Arrays",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Aggressive cows",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Book Allocation Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "EKOSPOJ:",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Job Scheduling Algo",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Missing Number in AP",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Smallest number with atleastn trailing zeroes infactorial",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Painters Partition Problem:",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "ROTI-Prata SPOJ",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "DoubleHelix SPOJ",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Subset Sums",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Findthe inversion count",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Implement Merge-sort in-place",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Searching & Sorting",
+        "Problem: ": "Partitioning and Sorting Arrays with Many Repeated Entries",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Reverse a Linked List in group of Given Size. [Very Imp]",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Write a program to Detect loop in a linked list.",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Write a program to Delete loop in a linked list.",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Find the starting point of the loop.\u00a0",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Remove Duplicates in a sorted Linked List.",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Remove Duplicates in a Un-sorted Linked List.",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Write a Program to Move the last element to Front in a Linked List.",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Add \u201c1\u201d to a number represented as a Linked List.",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Add two numbers represented by linked lists.",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Intersection of two Sorted Linked List.",
+        "id": "11",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Intersection Point of two Linked Lists.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Merge Sort For Linked lists.[Very Important]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Quicksort for Linked Lists.[Very Important]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Find the middle Element of a linked list.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Check if a linked list is a circular linked list.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Split a Circular linked list into two halves.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Write a Program to check whether the Singly Linked list is a palindrome or not.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Deletion from a Circular Linked List.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Reverse a Doubly Linked list.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Find pairs with a given sum in a DLL.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Count triplets in a sorted DLL whose sum is equal to given value \u201cX\u201d.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Sort a \u201ck\u201dsorted Doubly Linked list.[Very IMP]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Rotate DoublyLinked list by N nodes.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Can we reverse a linked list in less than O(n) ?",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Flatten a Linked List",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Sort a LL of 0's, 1's and 2's",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Clone a linked list with next and random pointer",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Merge K sorted Linked list",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Multiply 2 no. represented by LL",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Delete nodes which have a greater value on right side",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Segregate even and odd nodes in a Linked List",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Program for n\u2019th node from the end of a Linked List",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "LinkedList",
+        "Problem: ": "Find the first non-repeating character from a stream of characters",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "level order traversal",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Reverse Level Order traversal",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Height of a tree",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Diameter of a tree",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Mirror of a tree",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Inorder Traversal of a tree both using recursion and Iteration",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Preorder Traversal of a tree both using recursion and Iteration",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Postorder Traversal of a tree both using recursion and Iteration",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Left View of a tree",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Right View of Tree",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Top View of a tree",
+        "id": "11",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Bottom View of a tree",
+        "id": "12",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Zig-Zag traversal of a binary tree",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Check if a tree is balanced or not",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Diagnol Traversal of a Binary tree",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Boundary traversal of a Binary tree",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Construct Binary Tree from String with Bracket Representation",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Convert Binary tree into Doubly Linked List",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Convert Binary tree into Sum tree",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Construct Binary tree from Inorder and preorder traversal",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Find minimum swaps required to convert a Binary tree into BST",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Check if Binary tree is Sum tree or not",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Check if all leaf nodes are at same level or not",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Check if 2 trees are mirror or not",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Sum of Nodes on the Longest path from root to leaf node ",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Check if given graph is tree or not.  [ IMP ]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Find Largest subtree sum in a tree",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Maximum Sum of nodes in Binary tree such that no two are adjacent ",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Print all \"K\" Sum paths in a Binary tree",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Find LCA in a Binary tree",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Find distance between 2 nodes in a Binary tree",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Kth Ancestor of node in a Binary tree",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Find all Duplicate subtrees in a Binary tree [ IMP ]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Trees",
+        "Problem: ": "Tree Isomorphism Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Fina a value in a BST",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Deletion of a node in a BST",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Find min and max value in a BST",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Find inorder successor and inorder predecessor in a BST",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Check if a tree is a BST or not ",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Populate Inorder successor of all nodes",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Find LCA  of 2 nodes in a BST",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Construct BST from preorder traversal",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Convert Binary tree into BST",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Convert a normal BST into a Balanced BST",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Merge two BST [ V.V.V>IMP ]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Find Kth largest element in a BST",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Find Kth smallest element in a BST",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Count pairs from 2 BST whose sum is equal to given value \"X\"",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Find the median of BST in O(n) time and O(1) space",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Count BST ndoes that lie in a given range",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Replace every element with the least greater element on its right",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Given \"n\" appointments, find the conflicting appointments",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Check preorder is valid or not",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Check whether BST contains Dead end",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Binary Search Trees",
+        "Problem: ": "Flatten BST to sorted list",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Activity Selection Problem",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Job SequencingProblem",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Huffman Coding",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Water Connection Problem",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Fractional Knapsack Problem",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Greedy Algorithm to find Minimum number of Coins",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Maximum trains for which stoppage can be provided",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Minimum Platforms Problem",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Buy Maximum Stocks if i stocks can be bought on i-th day",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Find the minimum and maximum amount to buy all N candies",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Minimum Cost to cut a board into squares",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Check if it is possible to survive on Island",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Find maximum meetings in one room",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Maximum product subset of an array",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Maximize array sum after K negations",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Maximize the sum of arr[i]*i",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Maximum sum of absolute difference of an array",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Maximize sum of consecutive differences in a circular array",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Minimum sum of absolute difference of pairs of two arrays",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Program for Shortest Job First (or SJF) CPU Scheduling",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Program for Least Recently Used (LRU) Page Replacement algorithm",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Smallest subset with sum greater than all other elements",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Chocolate Distribution Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "DEFKIN -Defense of a Kingdom",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "DIEHARD -DIE HARD",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "GERGOVIA -Wine trading in Gergovia",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Picking Up Chicks",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "CHOCOLA \u2013Chocolate",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "ARRANGE -Arranging Amplifiers",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "K Centers Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Minimum Cost of ropes",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Find smallest number with given number of digits and sum of digits",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Rearrange characters in a string such that no two adjacent are same",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Greedy",
+        "Problem: ": "Find maximum sum possible equal sum of three stacks",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Rat in a maze Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Printing all solutions in N-Queen Problem",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Word Break Problem using Backtracking",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Remove Invalid Parentheses",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Sudoku Solver",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "m Coloring Problem",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Print all palindromic partitions of a string",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Subset Sum Problem",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "The Knight\u2019s tour problem",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Tug of War",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Find shortest safe route in a path with landmines",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Combinational Sum",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Find Maximum number possible by doing at-most K swaps",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Print all permutations of a string ",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Find if there is a path of more than k length from a source",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Longest Possible Route in a Matrix with Hurdles",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Print all possible paths from top left to bottom right of a mXn matrix",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Partition of a set intoK subsets with equal sum",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "BackTracking",
+        "Problem: ": "Find the K-th Permutation Sequence of first N natural numbers",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": " Implement Stack from Scratch",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": " Implement Queue from Scratch",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Implement 2 stack in an array",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "find the middle element of a stack",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Implement \"N\" stacks in an Array",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Check the expression has valid or Balanced parenthesis or not.",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Reverse a String using Stack",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Find the next Greater element",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "The celebrity Problem",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Arithmetic Expression evaluation",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Evaluation of Postfix expression",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Implement a method to insert an element at its bottom without using any other data structure.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Reverse a stack using recursion",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Sort a Stack using recursion",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Merge Overlapping Intervals",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Largest rectangular Area in Histogram",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Length of the Longest Valid Substring",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Expression contains redundant bracket or not",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Implement Stack using Queue",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Implement Stack using Deque",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Stack Permutations (Check if an array is stack permutation of other)",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Implement Queue using Stack  ",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Implement \"n\" queue in an array",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Implement a Circular queue",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "LRU Cache Implementationa",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Reverse a Queue using recursion",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Reverse the first \u201cK\u201d elements of a queue",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Interleave the first half of the queue with second half",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Find the first circular tour that visits all Petrol Pumps",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Minimum time required to rot all oranges",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Distance of nearest cell having 1 in a binary matrix",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "First negative integer in every window of size \u201ck\u201d",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Check if all levels of two trees are anagrams or not.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Sum of minimum and maximum elements of all subarrays of size \u201ck\u201d.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Minimum sum of squares of character counts in a given string after removing \u201ck\u201d characters.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Queue based approach or first non-repeating character in a stream.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Stacks & Queues",
+        "Problem: ": "Next Smaller Element",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Implement a Maxheap/MinHeap using arrays and recursion.",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Sort an Array using heap. (HeapSort)",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Maximum of all subarrays of size k.",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "\u201ck\u201d largest element in an array",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Kth smallest and largest element in an unsorted array",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Merge \u201cK\u201d sorted arrays. [ IMP ]",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Merge 2 Binary Max Heaps",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Kth largest sum continuous subarrays",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Leetcode- reorganize strings",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Merge \u201cK\u201d Sorted Linked Lists [V.IMP]",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Smallest range in \u201cK\u201d Lists",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Median in a stream of Integers",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Check if a Binary Tree is Heap",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Connect \u201cn\u201d ropes with minimum cost",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Convert BST to Min Heap",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Convert min heap to max heap",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Rearrange characters in a string such that no two adjacent are same.",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Heap",
+        "Problem: ": "Minimum sum of two numbers formed from digits of an array",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Create a Graph, print it",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Implement BFS algorithm ",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Implement DFS Algo ",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Detect Cycle in Directed Graph using BFS/DFS Algo ",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Detect Cycle in UnDirected Graph using BFS/DFS Algo ",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Search in a Maze",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Minimum Step by Knight",
+        "id": "7",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "flood fill algo",
+        "id": "8",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Clone a graph",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Making wired Connections",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "word Ladder ",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Dijkstra algo",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Implement Topological Sort ",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Find whether it is possible to finish all tasks or not from given dependencies",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Find the no. of Isalnds",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Given a sorted Dictionary of an Alien Language, find order of characters",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Implement Kruksal\u2019sAlgorithm",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Implement Prim\u2019s Algorithm",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Total no. of Spanning tree in a graph",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Implement Bellman Ford Algorithm",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Implement Floyd warshallAlgorithm",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Travelling Salesman Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Graph ColouringProblem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Snake and Ladders Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Find bridge in a graph",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Count Strongly connected Components(Kosaraju Algo)",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Check whether a graph is Bipartite or Not",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Detect Negative cycle in a graph",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Longest path in a Directed Acyclic Graph",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Journey to the Moon",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Cheapest Flights Within K Stops",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Oliver and the Game",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Water Jug problem using BFS",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Water Jug problem using BFS",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Find if there is a path of more thank length from a source",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "M-ColouringProblem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Minimum edges to reverse o make path from source to destination",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Paths to travel each nodes using each edge(Seven Bridges)",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Vertex Cover Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Chinese Postman or Route Inspection",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Number of Triangles in a Directed and Undirected Graph",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Minimise the cashflow among a given set of friends who have borrowed money from each other",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Graph",
+        "Problem: ": "Two Clique Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "Trie",
+        "Problem: ": "Construct a trie from scratch",
+        "id": "1",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Trie",
+        "Problem: ": "Find shortest unique prefix for every word in a given list",
+        "id": "2",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Trie",
+        "Problem: ": "Word Break Problem | (Trie solution)",
+        "id": "3",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Trie",
+        "Problem: ": "Given a sequence of words, print all anagrams together",
+        "id": "4",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Trie",
+        "Problem: ": "Implement a Phone Directory",
+        "id": "5",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Trie",
+        "Problem: ": "Print unique rows in a given boolean matrix",
+        "id": "6",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "7",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "8",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Coin ChangeProblem",
+        "id": "9",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Knapsack Problem",
+        "id": "10",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Binomial CoefficientProblem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Permutation CoefficientProblem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Program for nth Catalan Number",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Matrix Chain Multiplication\u00a0",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Edit Distance",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Subset Sum Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Friends Pairing Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Gold Mine Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Assembly Line SchedulingProblem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Painting the Fenceproblem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximize The Cut Segments",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Longest Common Subsequence",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Longest Repeated Subsequence",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Longest Increasing Subsequence",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Space Optimized Solution of LCS",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "LCS (Longest Common Subsequence) of three strings",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximum Sum Increasing Subsequence",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Count all subsequences having product less than K",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Longest subsequence such that difference between adjacent is one",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximum subsequence sum such that no three are consecutive",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Egg Dropping Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximum Length Chain of Pairs",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximum size square sub-matrix with all 1s",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximum sum of pairs with specific difference",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Min Cost PathProblem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximum difference of zeros and ones in binary string",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Minimum number of jumps to reach end",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Minimum cost to fill given weight in a bag",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Minimum removals from array to make max \u2013min <= K",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Longest Common Substring",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Count number of ways to reacha given score in a game",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Count Balanced Binary Trees of Height h",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Smallest sum contiguous subarray",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Unbounded Knapsack (Repetition of items allowed)",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Word Break Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Largest Independent Set Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Partition problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Longest Palindromic Subsequence",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Count All Palindromic Subsequence in a given String",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Longest Palindromic Substring",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Longest alternating subsequence",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Weighted Job Scheduling",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Coin game winner where every player has three choices",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximum profit by buying and selling a share at most twice [ IMP ]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Optimal Strategy for a Game",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Optimal Binary Search Tree",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Palindrome PartitioningProblem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Word Wrap Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Mobile Numeric Keypad Problem [ IMP ]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Boolean Parenthesization Problem",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Largest rectangular sub-matrix whose sum is 0",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Largest area rectangular sub-matrix with equal number of 1\u2019s and 0\u2019s [ IMP ]",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximum sum rectangle in a 2D matrix",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximum profit by buying and selling a share at most k times",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Find if a string is interleaved of two other strings",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Dynamic Programming",
+        "Problem: ": "Maximum Length of Pair Chain",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "",
+        "Problem: ": "",
+        "id": "",
+        "Done [yes or no] ": ""
+    },
+    {
+        "Topic": "Bit Manipulation",
+        "Problem: ": "Count set bits in an integer",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Bit Manipulation",
+        "Problem: ": "Find the two non-repeating elements in an array of repeating elements",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Bit Manipulation",
+        "Problem: ": "Count number of bits to be flipped to convert A to B",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Bit Manipulation",
+        "Problem: ": "Count total set bits in all numbers from 1 to n",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Bit Manipulation",
+        "Problem: ": "Program to find whether a no is power of two",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Bit Manipulation",
+        "Problem: ": "Find position of the only set bit",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Bit Manipulation",
+        "Problem: ": "Copy set bits in a range",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Bit Manipulation",
+        "Problem: ": "Divide two integers without using multiplication, division and mod operator",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Bit Manipulation",
+        "Problem: ": "Calculate square of a number without using *, / and pow()",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    },
+    {
+        "Topic": "Bit Manipulation",
+        "Problem: ": "Power Set",
+        "id": "",
+        "Done [yes or no] ": "<->"
+    }
+]
