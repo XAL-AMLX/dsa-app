@@ -1,0 +1,15 @@
+.queBtn {
+    width: 100%;
+    text-align: left;
+   
+}
+
+.cmnDiv {
+    display: inline-flex;
+    width: 100%;
+}
+
+.hiBtn {
+    width: 30%;
+}
+
